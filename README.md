@@ -1,0 +1,1 @@
+# GhostCoin Daemon-Linux
